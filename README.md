@@ -4,7 +4,15 @@
 
 This project analyzes survey data from data professionals to explore patterns in salary, job roles, education, geographic distribution, programming-language preferences, and work-life satisfaction.
 
-The dataset was cleaned and transformed in Power BI and then analyzed through data modeling, measures, and interactive visualizations. The final dashboard provides an overview of the respondents and allows users to explore the results across different professional and demographic dimensions.
+The dataset was cleaned and transformed using Power Query in Power BI and then analyzed through data modeling, DAX measures, and interactive visualizations. The final dashboard provides an overview of the respondents and allows users to explore the results across different professional and demographic dimensions.
+
+## Data Source
+
+The dataset used in this project was obtained from the Power BI project repository by Alex The Analyst.
+
+The source file contains survey responses from data professionals and was used as the basis for the analysis and dashboard development.
+
+🔗 **[Source Dataset — GitHub](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)**
 
 ## Key Metrics
 
@@ -16,27 +24,33 @@ The dataset was cleaned and transformed in Power BI and then analyzed through da
 ## Analysis Areas
 
 ### Salary Analysis
+
 - Average salary across different job titles
 - Comparison of average salary between female and male respondents
 - Salary patterns across data-related roles
 
 ### Job Role Analysis
+
 - Distribution of respondents across different job titles
 - Comparison of representation among Data Analysts, Data Engineers, Data Scientists, and other roles
 
 ### Geographic Analysis
+
 - Distribution of survey respondents across countries
 - Comparison of respondent representation across major countries
 
 ### Education Analysis
+
 - Distribution of respondents by education level
 - Comparison across Bachelor's, Master's, High School, Associate, PhD, and unspecified education categories
 
 ### Programming Language Preferences
+
 - Identification of the most preferred programming languages among respondents
 - Comparison of programming-language preferences across job roles
 
 ### Work-Life Satisfaction
+
 - Measurement of overall work-life satisfaction
 - Exploration of satisfaction through interactive dashboard filters
 
@@ -66,12 +80,6 @@ These filters allow users to explore the survey results across different groups 
 ## Project Workflow
 
 **Raw Data → Data Cleaning & Transformation → Analysis → Visualization → Interactive Dashboard**
-
-## Project Files
-
-- `Power BI Project.pbix` — Power BI Desktop project file
-- `Power BI - Final Project.xlsx` — Source dataset
-- `README.md` — Project documentation
 
 ## Objective
 

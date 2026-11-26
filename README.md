@@ -18,7 +18,7 @@ The source file contains survey responses from data professionals and was used a
 
 - **Total Respondents:** 630
 - **Average Age:** 29.87
-- **Mean Salary:** $53.90
+- **Mean Salary:** $53.90 (in thousands of USD)
 - **Average Work-Life Satisfaction:** 5.74 / 10
 
 ## Analysis Areas
